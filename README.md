@@ -1,4 +1,4 @@
-
+The aim of this project was to implement a neural network for time series forecasting using Tensorflow and Keras.
 # Files:
 
 1.train.py --> To train the model
@@ -24,6 +24,6 @@
 
 3.pandas --> Used to read files
 
-4.tensorflow --> Based on the keras of tensorflow
+4.tensorflow --> Based on the Keras of Tensorflow
 
 5.matplotlib --> Used for the plots
