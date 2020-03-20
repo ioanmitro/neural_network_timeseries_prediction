@@ -27,3 +27,8 @@ The aim of this project was to implement a neural network for time series foreca
 4.tensorflow --> Based on the Keras of Tensorflow
 
 5.matplotlib --> Used for the plots
+
+
+## General
+
+For the training we can choose train.py for CPU training and gpu_train.py for GPU depending on the performance we desire. Before this procedure, we should firstly parse the input file output.acm with the execution of parse.py 
